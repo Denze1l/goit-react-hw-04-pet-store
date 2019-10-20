@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  padding: 0rem;
+  margin: 0rem;
+  box-sizing: inherit;
+}
+
+.Decoration {
+  background-image: url(https://images.unsplash.com/photo-1470058869958-2a77ade41c02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HeloWord {
+  text-align: center;
+  text-decoration-color: chocolate;
+  color: rgb(181, 219, 13);
+  font-weight: bold;
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 50px;
+}

@@ -1,0 +1,16 @@
+.AboutContainer {
+  padding-top: 20px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.headline {
+  color: tomato;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.SomeArticles {
+  font-size: 18px;
+  padding-bottom: 15px;
+}
